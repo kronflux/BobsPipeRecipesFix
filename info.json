@@ -1,0 +1,14 @@
+{
+  "name": "BobsPipeRecipesFix",
+  "version": "1.0.0",
+  "title": "Bob's Logistics Pipe Recipes Fix",
+  "author": "kronflux",
+  "factorio_version": "1.1",
+  "dependencies": [
+    "base",
+    "boblogistics",
+    "(?) aai-industry",
+	"(?) Krastorio2"
+  ],
+  "description": "Re-Enables the Copper and Stone pipe recipes when using Bob's Logistics with AAI Industry and/or Krastorio2."
+}
